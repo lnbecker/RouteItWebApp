@@ -1,0 +1,33 @@
+.footerLinks {
+    list-style: none;
+    text-align: left;
+    text-decoration: underline;
+    padding-left: 0px;
+}
+
+.cheading{
+    text-align: center;
+    padding: 10px;
+}
+
+.centerPic{
+    height: 114px;
+    display: block;
+    margin: auto;
+}
+
+html{
+    margin: 15px;
+}
+
+.btn-default{
+    margin-top:5px;
+}
+
+.col-sm-4 p{
+    margin: 5px;
+}
+
+.social_icon{
+    padding: 3px;
+}
